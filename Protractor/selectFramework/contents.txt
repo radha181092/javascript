@@ -1,0 +1,9 @@
+
+Jasmine Concepts
+ Introduction to Jasmine and basic features
+ BeforeEach and AfterEach
+ BeforeAll and AfterAll
+ Creating Test Suites and running selective / all test cases
+ Expect toBe/toEqual
+ Expect toContain/ toMatch
+ Expect not.toBe/ not.toEqual
